@@ -2,16 +2,7 @@
 
 
 ## Description
-
-TODO
-
-### Dependencies
- 
-TODO
-
-## Installation  
-
-TODO
+Mobile Android application based on the popular board game Claus Teuber's Settlers of Catan.
 
 ## Contributors 
 * Dave Arlt (dcarlt@iastate.edu)
